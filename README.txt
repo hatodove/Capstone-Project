@@ -9,7 +9,7 @@ Deliverable 1.1.2 Data Source Links.txt
 Links to all the original sources of the raw datasets
 ------------------------------------------------------------------------------------------
 
-Data.ipynb
+Deliverable 1.1.2 Data.ipynb
 Purpose:
 This notebook handles the data ingestion and database setup. It performs the following tasks:
 
@@ -27,7 +27,7 @@ The star schema design makes queries faster and easier for downstream analysis. 
 Output:
 analytics_panel.sqlite – A local SQLite database containing the transformed data in star schema format.
 ------------------------------------------------------------------------------------------
-TABLE REVIEW
+TABLE REVIEW (extra-not a deliverable)
 
 Politics_and_Safety_Analysis.ipynb
 GDP_Analysis.ipynb
@@ -48,11 +48,10 @@ Calculate Pearson and Spearman correlations with p-values
 Evaluate the null hypothesis (H0) with a short conclusion
 ------------------------------------------------------------------------------------------
 
-analysis.ipynb
+Deliverable 1.6.3 Analysis.ipynb
 
 Purpose:
 This notebook compiles and compares the results from all previous analyses. It brings together the findings from the politics and safety, GDP, marriage, and employment notebooks to evaluate fertility patterns more broadly. The goal is to identify consistent relationships, highlight differences across factors, and provide an integrated view of the overall results.
 ------------------------------------------------------------------------------------------
 
-The data is reviewed and analyzed in my 
-(separated from the code so that it is easier to read.)
+Deliverable 1.6.1 Technical Report (FINAL REPORT)
