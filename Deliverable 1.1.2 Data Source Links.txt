@@ -1,0 +1,17 @@
+Fertility rates (1963–2022): https://data.worldbank.org/indicator/SP.DYN.TFRT.IN
+
+Marriage percentages (1970–2023): https://ourworldindata.org/grapher/share-of-women-aged-1549-who-are-married-or-in-a-union?time=1970
+
+GDP per capita (1961–2023): https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?most_recent_year_desc=false&view=map&year=2024
+
+GDP per capita annual growth (1961–2023): https://data.worldbank.org/indicator/NY.GDP.PCAP.KD.ZG?most_recent_year_desc=false&view=map&year=1961
+
+GDP per capita deflation (1961–2023): https://data.worldbank.org/indicator/NY.GDP.DEFL.KD.ZG?most_recent_value_desc=true&view=map&year=2024
+
+Female workforce participation (1990–2024): https://data.worldbank.org/indicator/SL.TLF.CACT.FE.ZS
+
+Unemployment rates (global): https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?view=map
+
+Corruption Perception Index (CPI, 2000–2024): https://www.transparency.org/en/cpi
+
+World Governance Indicators (WGI – political stability and absence of terrorism, 1996–2023): https://data.worldbank.org/indicator/PV.PER.RNK?year=1996

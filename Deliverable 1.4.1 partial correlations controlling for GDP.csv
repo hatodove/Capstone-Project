@@ -1,0 +1,10 @@
+x,y,z,n,partial_r,partial_p,sig
+CPI10,fertility_rate,log_gdppc,382,-0.03819789876241649,0.4566368657341001,
+CPI100,fertility_rate,log_gdppc,441,-0.07288421959488527,0.1264485671000953,
+WGI,fertility_rate,log_gdppc,260,-0.01900569686757525,0.7603596149116251,
+annual_rate,fertility_rate,log_gdppc,13784,-0.11081968989348617,6.367438476948207e-39,****
+deflation,fertility_rate,log_gdppc,13719,-0.03551796000033024,3.167375408793261e-05,***
+female_participation,fertility_rate,log_gdppc,7823,0.0946157380933035,5.0284729294672716e-17,****
+married_percentage,fertility_rate,log_gdppc,9941,0.18708610829257646,5.442434589427679e-79,****
+unemployment,fertility_rate,log_gdppc,7602,-0.13247954985031146,4.116891661941337e-31,****
+log_gdppc,fertility_rate,married_percentage,9941,-0.6799616351176654,0.0,****
